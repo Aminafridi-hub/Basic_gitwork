@@ -20,11 +20,7 @@ Central Storage: It gives a single, reliable place for all team members to share
 
 Collaboration Tools: It adds features like issue tracking, code review, and project management on top of Git.
 
-3. ⚙️ Key Git/GitHub Commands Explained
-The terms clone, push, and pull are the essential commands you use to move code between your local computer (your machine) and the central repository on GitHub.
-TermDirectionPurposeAnalogyCLONEGitHub $\to$ LocalTo create a copy of an existing repository from GitHub onto your computer. This is usually the first step when starting work on a project.Getting a copy of the textbook.PULLGitHub $\to$ LocalTo download the latest changes that other people have made from the GitHub repository to update the copy on your computer.Syncing your work with a friend's latest updates.PUSHLocal $\to$ GitHubTo upload the changes (the work you've completed) from your local computer to the central GitHub repository, making them available to others.Submitting your finished work to the class cloud drive.
 
-CLONE a project from GitHub to your computer.
 
 Write/edit code on your computer.
 
